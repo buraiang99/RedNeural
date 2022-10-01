@@ -1,0 +1,24 @@
+body {
+    background-image: url(../assets/bg1.jpg);
+    background-size: 100% auto;
+    background-position: center top;
+}
+h1 {
+    color: #fff;
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#jscolors {
+    margin: auto;
+    justify-content: center;
+    width: 225px; 
+    height: 25px;
+}
+#example {
+    margin-top: 10em;
+}
